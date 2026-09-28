@@ -6,3 +6,4 @@ function greet(name) {
 function farewell(name) {
   return `До встречи, ${name}!`;
 }
+// исправление опечатки в комментарии
